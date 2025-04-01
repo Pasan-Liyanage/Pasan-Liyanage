@@ -5,9 +5,9 @@
 ## 🚀 About Me
 
 🎯 Passionate about software development and technology innovation. 
-📌 Skilled in **C++ (strongest), C, Python (average), HTML, CSS, JavaScript, React**.  
+📌 Skilled in **C++, c# (strongest), C, Python (average), HTML, CSS, JavaScript, React**.  
 🤖 Exploring **AI and Machine Learning**.  
-💻 Interested in **web development, game development, and software engineering**.
+💻 Interested in **web development, and software engineering**.
 
 ## 🔥 GitHub Stats
 
